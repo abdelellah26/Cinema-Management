@@ -1,0 +1,11 @@
+com\mycompany\cinemamanagement\Cinema.class
+com\mycompany\cinemamanagement\IUserCinema.class
+com\mycompany\cinemamanagement\CinemaManagement.class
+com\mycompany\cinemamanagement\Seance.class
+com\mycompany\cinemamanagement\Film.class
+com\mycompany\cinemamanagement\SalleVip.class
+com\mycompany\cinemamanagement\Salle.class
+com\mycompany\cinemamanagement\PlaceIndisponibleException.class
+com\mycompany\cinemamanagement\IVendureCinema.class
+com\mycompany\cinemamanagement\SalleNormal.class
+com\mycompany\cinemamanagement\IAdminCinema.class
